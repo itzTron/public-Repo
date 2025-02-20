@@ -1,4 +1,4 @@
-# <img src="images/wave.gif" alt="Hi" height="45" width="45"/> Hello, I'm TANMOY NASKAR
+#alt="Hi" height="45" width="45"/> Hello, I'm TANMOY NASKAR
 
 <!--[![](https://img.shields.io/twitter/follow/niladrix719?logo=twitter&style=for-the-b<adge&color=3382ed&labelColor=0f172a)](https://twitter.com/niladrix719)-->
 
