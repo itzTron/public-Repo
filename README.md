@@ -2,7 +2,7 @@
 
 <!--[![](https://img.shields.io/twitter/follow/niladrix719?logo=twitter&style=for-the-b<adge&color=3382ed&labelColor=0f172a)](https://twitter.com/niladrix719)-->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Cyber+Security+Student;Open-Source+Contributor;Diploma+Computer+Science+Student;2%2B+Years+of+Coding+Experience)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Cyber+Security+Student;Open-Source+Contributor;Diploma+Computer+Science+Student;1%2B+Years+of+Hacking+Experience)
 
 ## 💫 About Me:
 
