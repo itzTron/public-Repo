@@ -1,16 +1,16 @@
-# <img src="wave.gif" alt="Hi" height="45" width="45"/> Hello, I'm TANMOY NASKAR
+# <img src="wave.gif" alt="Hi" height="45" width="45"/> Hello, I'm TANMOY NASKAR | YOUR NEIGHBOUR HACKER!! 
 
 <!--[![](https://img.shields.io/twitter/follow/niladrix719?logo=twitter&style=for-the-b<adge&color=3382ed&labelColor=0f172a)](https://twitter.com/niladrix719)-->
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Cyber+Security+Student;Open-Source+Contributor;Diploma+Computer+Science+Student;1%2B+Years+of+Hacking+Experience)
 
-## 💫 About Me:
+##  About Myself:
 
 ```typescript
 const aboutMe = {
   name: "TANMOY NASKAR",
   email: "tanmoyn681@gmail.com",
-  languages: ["Python", "JavaScript", "C/C++"],
+  languages: ["Python", "JavaScript", "C"],
   technologies: {
         framework: ["Metasploit"],
       }
@@ -27,8 +27,9 @@ const aboutMe = {
   },
   currentOccupation: "Student, open for internship opportunities",
   challenge:
-    "I am doing the #Leetcode365Days challenge focused on Data Structures and Algorithms",
+    "I Love taking challenges"
   funFact: "I love automated tools for hackers" 🤖🔧",
+fact : "EVERYTHING CAN BE HACKED!"
 };
 ```
 
