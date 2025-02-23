@@ -27,7 +27,7 @@ const aboutMe = {
   challenges:
     "I Love taking challenges"
   funFact: "I love automated tools for hackers" 🤖🔧",
-fact : "EVERYTHING CAN BE HACKED!"
+fact : "EVERYTHING CAN BE HACKED!!"
 };
 ```
 
